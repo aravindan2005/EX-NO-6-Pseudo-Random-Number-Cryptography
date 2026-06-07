@@ -1,5 +1,7 @@
 # EX-NO-6-Pseudo-Random-Number
 
+## NAME: ARAVINDAN T
+## REG NO: 2305001003
 
 ## AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
@@ -17,7 +19,7 @@ Step-4: Pass the value for number of iterations and print the numbers.
 Step-5: End the program.
 
 ## PROGRAM:
-```
+```c
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <time.h> 
@@ -37,6 +39,7 @@ return 0;
 ```
 ## OUTPUT:
 
+<img width="643" height="135" alt="image" src="https://github.com/user-attachments/assets/7250543f-4ecf-47c2-8185-e0cd7781dcac" />
 
 ## RESULT:
 Hence the experiment has been executed successfully
